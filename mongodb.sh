@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./common.sh
+source ./common.sh      # IT WILL CALL THE SCRIPT
 
 check_root
 
